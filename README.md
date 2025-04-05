@@ -17,8 +17,8 @@ Vous pouvez télécharger nos logiciels en toute confiance via les liens ci-dess
 
 **Mise a jour:**
 ```
-- Mise a jour automatique
-- Lancer le logiciel
+1: Mise a jour automatique
+2: Lancer le logiciel
 - attendre la notification windows "Mise a jour telecharger"
 - Attendre 20s (ou plus si sa na pas marcher la premier fois)
 - Fermer le logiciel
