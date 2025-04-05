@@ -18,12 +18,12 @@ Vous pouvez télécharger nos logiciels en toute confiance via les liens ci-dess
 **Mise a jour:**
 ```
 1: Mise a jour automatique
-2: Lancer le logiciel
-- attendre la notification windows "Mise a jour telecharger"
-- Attendre 20s (ou plus si sa na pas marcher la premier fois)
-- Fermer le logiciel
-- Attendre 20 (ou plus si sa na pas marcher la premier fois)
-- Relancer le logiciel et normalement c'est bon
+2: Ouvrir le logiciel.
+3: Attendre la notification Windows indiquant : "Mise à jour téléchargée".
+4: Patienter 20 secondes (ou plus si cela ne fonctionne pas du premier coup).
+5: Fermer le logiciel.
+6: Attendre à nouveau 20 secondes (ou plus si nécessaire).
+7: Relancer le logiciel. Normalement, la mise à jour est maintenant appliquée
 ```
 **Téléchargement:**
 
